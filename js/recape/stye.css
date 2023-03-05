@@ -1,0 +1,15 @@
+.mahedi{
+    display: flex;
+    justify-content: ;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: rotate(360deg);
+    transition: 2s;
+    list-style: none;
+    width:100% ;
+    height: 100vh;
+    list-style: none;
+    line-height: 10;
+
+}
